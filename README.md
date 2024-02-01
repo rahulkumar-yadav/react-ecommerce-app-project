@@ -1,4 +1,4 @@
-# React eCommerce App
+# React E-Commerce App
 
 Welcome to the React eCommerce App! This application is designed to showcase an eCommerce-like page with multiple filters and sorting options. You can use this app as a template for creating a variety of eCommerce experiences, whether for fashion, real estate, or any other type of products.
 
